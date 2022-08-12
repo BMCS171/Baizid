@@ -397,14 +397,14 @@ logo = ("""
 \x1b[1;92m | $$$$$$$/| $$ \/  | $$|  $$$$$$/|  $$$$$$/
 \x1b[1;92m |_______/ |__/     |__/ \______/  \______/ 
 
-   \x1b[1;92m╔═════════════════════════════╗
-   \x1b[1;92m║➣TOOL NAME : { BMCS }   ║
+   \x1b[1;92m╔═══════════════════════════════╗
+   \x1b[1;92m║➣TOOL NAME : { BMCS }               ║
    \x1b[1;92m║➣AUTHOR    : MD Baizid Mostofa      ║
-   \x1b[1;92m║➣WHATSAPP    : 01867705596 ║
-   \x1b[1;92m║➣FACEBOOK  :  MD Baizid Mostofa Asif ║
-   \x1b[1;92m║➣Group     : ❥͜͡ BMC-SqUaD Team ║
-   \x1b[1;92m║➣WHATSAPP  : [ ERROR ]       ║
-   \x1b[1;92m╚═════════════════════════════╝""")
+   \x1b[1;92m║➣WHATSAPP  : 01867705596            ║
+   \x1b[1;92m║➣FACEBOOK  : MD Baizid Mostofa Asif ║
+   \x1b[1;92m║➣Group     : ❥͜͡ BMC-SqUaD Team       ║
+   \x1b[1;92m║➣Github    : [BMCS171]              ║
+   \x1b[1;92m╚═══════════════════════════════╝""")
 
 class Main:
 	def __init__(self):
